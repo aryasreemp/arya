@@ -1,2 +1,3 @@
-#includ<>
+#include<stdio.h>
 printf()
+hello world
